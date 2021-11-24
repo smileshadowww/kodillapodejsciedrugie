@@ -1,0 +1,16 @@
+.title h1 {
+  font-size: 40px;
+  margin: auto;
+  text-align: center;
+  font-family:cursive;
+}
+
+.title h2 {
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+.song-text {
+  margin-left: 15px;
+}
