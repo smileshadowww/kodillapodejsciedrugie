@@ -14,3 +14,7 @@
 .song-text {
   margin-left: 15px;
 }
+
+.song-text p {
+  text-align: center;
+}
