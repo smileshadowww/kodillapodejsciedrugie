@@ -18,3 +18,7 @@
 .song-text p {
   text-align: center;
 }
+
+body {
+  background-color: lightgrey;
+}
